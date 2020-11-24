@@ -1,0 +1,1 @@
+A generalised package for interacting with the Torn API
